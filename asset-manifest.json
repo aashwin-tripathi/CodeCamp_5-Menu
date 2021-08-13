@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CodeCamp_5-Menu/static/css/main.26e112f5.chunk.css",
+    "main.js": "/CodeCamp_5-Menu/static/js/main.fac80350.chunk.js",
+    "main.js.map": "/CodeCamp_5-Menu/static/js/main.fac80350.chunk.js.map",
+    "runtime-main.js": "/CodeCamp_5-Menu/static/js/runtime-main.62bcc73e.js",
+    "runtime-main.js.map": "/CodeCamp_5-Menu/static/js/runtime-main.62bcc73e.js.map",
+    "static/js/2.66b87b03.chunk.js": "/CodeCamp_5-Menu/static/js/2.66b87b03.chunk.js",
+    "static/js/2.66b87b03.chunk.js.map": "/CodeCamp_5-Menu/static/js/2.66b87b03.chunk.js.map",
+    "index.html": "/CodeCamp_5-Menu/index.html",
+    "precache-manifest.4197a8910a2c98cf7ed2414919e0f803.js": "/CodeCamp_5-Menu/precache-manifest.4197a8910a2c98cf7ed2414919e0f803.js",
+    "service-worker.js": "/CodeCamp_5-Menu/service-worker.js",
+    "static/css/main.26e112f5.chunk.css.map": "/CodeCamp_5-Menu/static/css/main.26e112f5.chunk.css.map",
+    "static/js/2.66b87b03.chunk.js.LICENSE.txt": "/CodeCamp_5-Menu/static/js/2.66b87b03.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62bcc73e.js",
+    "static/js/2.66b87b03.chunk.js",
+    "static/css/main.26e112f5.chunk.css",
+    "static/js/main.fac80350.chunk.js"
+  ]
+}
